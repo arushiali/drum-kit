@@ -15,4 +15,3 @@ This project uses HTML, CSS, and JavaScript to build a simple and intuitive brow
 - CSS animations / transitions on button press (visual feedback).  
 - Responsive basic layout — works on desktop, and usable on touch-devices.
 
-## 📁 Project Structure  
